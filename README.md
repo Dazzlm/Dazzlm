@@ -106,8 +106,10 @@
 
 <table style="width:100%;" align="center">
   <tr>
-    <td align="center" style="font-size: 1.05rem;">
-      🏥 <strong>Mi Salud</strong><br>Fullstack con .NET 8 + React. Arquitectura escalable y documentación robusta.<br><br>
+    <td align="left" style="font-size: 1.05rem;">
+      🏥 <strong>Mi Salud</strong><br>Fullstack con .NET 8 + React. Arquitectura escalable y documentación robusta.
+    </td>
+    <td align="center" valign="middle">
       <a href="https://github.com/Dazzlm/Backend-MiSalud" target="_blank" title="Ver repositorio Backend">
         <img src="https://img.shields.io/badge/BE-e07a2e?style=for-the-badge&logo=dotnet&logoColor=white" alt="BE" />
       </a>
@@ -117,8 +119,10 @@
     </td>
   </tr>
   <tr>
-    <td align="center" style="font-size: 1.05rem;">
-      🚗 <strong>SPA Vehicular</strong><br>API en .NET Framework 4.8 + React. Gestión de servicios automotrices.<br><br>
+    <td align="left" style="font-size: 1.05rem;">
+      🚗 <strong>SPA Vehicular</strong><br>API en .NET Framework 4.8 + React. Gestión de servicios automotrices.
+    </td>
+    <td align="center" valign="middle">
       <a href="https://github.com/Dazzlm/SpaVehiculosBE" target="_blank" title="Ver repositorio Backend">
         <img src="https://img.shields.io/badge/BE-e07a2e?style=for-the-badge&logo=dotnet&logoColor=white" alt="BE" />
       </a>
@@ -128,8 +132,10 @@
     </td>
   </tr>
   <tr>
-    <td align="center" style="font-size: 1.05rem;">
-      🛒 <strong>E-commerce & Recetario</strong><br>Aplicaciones React con carrito, listas e interacción.<br><br>
+    <td align="left" style="font-size: 1.05rem;">
+      🛒 <strong>E-commerce & Recetario</strong><br>Aplicaciones React con carrito, listas e interacción.
+    </td>
+    <td align="center" valign="middle">
       <a href="https://github.com/Dazzlm/E-commerce-React" target="_blank" title="Ver repositorio Frontend">
         <img src="https://img.shields.io/badge/FE-468faf?style=for-the-badge&logo=react&logoColor=white" alt="FE" />
       </a>
@@ -139,14 +145,17 @@
     </td>
   </tr>
   <tr>
-    <td align="center" style="font-size: 1.05rem;">
-      🖥️ <strong>Punto de venta</strong><br>C# + WPF – App de escritorio conectada a SQL Server con arquitectura en capas.<br><br>
+    <td align="left" style="font-size: 1.05rem;">
+      🖥️ <strong>Punto de venta</strong><br>C# + WPF – App de escritorio conectada a SQL Server con arquitectura en capas.
+    </td>
+    <td align="center" valign="middle">
       <a href="https://github.com/Dazzlm/Store" target="_blank" title="Ver repositorio Backend">
         <img src="https://img.shields.io/badge/BE-e07a2e?style=for-the-badge&logo=dotnet&logoColor=white" alt="BE" />
       </a>
     </td>
   </tr>
 </table>
+
 
 
 ---
