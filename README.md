@@ -41,65 +41,19 @@
 
 ### 🛠️ Tecnologías y Herramientas
 <p align="center">
-
-  <a href="https://learn.microsoft.com/en-us/dotnet/core/introduction" target="_blank" rel="noreferrer" title=".NET Core">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="60" height="60"/>
-  </a>
-
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" title="C#">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60"/>
-  </a>
-
-  <a href="https://react.dev" target="_blank" rel="noreferrer" title="React">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60"/>
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer" title="HTML">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="60" height="60"/>
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" title="CSS">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="60" height="60"/>
-  </a>
-
-  <a href="https://mui.com/" target="_blank" rel="noreferrer" title="Material UI">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="60" height="60"/>
-  </a>
-
-  <a href="https://www.oracle.com/java" target="_blank" rel="noreferrer" title="Java">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
-  </a>
-
-  <a href="https://learn.microsoft.com/es-es/sql/?view=sql-server-ver17" target="_blank" rel="noreferrer" title="SQL Server">
-    <img src="https://img.icons8.com/color/512/microsoft-sql-server.png" alt="SQL Server" width="60" height="60"/>
-  </a>
-
-  <a href="https://swagger.io" target="_blank" rel="noreferrer" title="Swagger">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="Swagger" width="60" height="60"/>
-  </a>
-
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer" title="Postman">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="60" height="60"/>
-  </a>
-
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60"/>
-  </a>
-
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="Figma">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="60" height="60"/>
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60"/>
-  </a>
-
+  <!-- Lenguajes -->
+  <img src="https://skillicons.dev/icons?i=cs,java,javascript,html,css,sqlserver" />
 </p>
 
+<p align="center">
+  <!-- Frameworks y Librerías -->
+  <img src="https://skillicons.dev/icons?i=dotnet,react,materialui" />
+</p>
+
+<p align="center">
+  <!-- Herramientas -->
+  <img src="https://skillicons.dev/icons?i=git,docker,postman,swagger,figma" />
+</p>
 ---
 
 ### 🚀 Proyectos Personales
