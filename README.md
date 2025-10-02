@@ -76,7 +76,7 @@
   </a>
 
   <a href="https://learn.microsoft.com/es-es/sql/?view=sql-server-ver17" target="_blank" rel="noreferrer" title="SQL Server">
-    <img src="https://img.icons8.com/color/512/microsoft-sql-server.png" alt="SQL Server" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" width="60" height="60"/>
   </a>
 
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" title="PostgreSQL">
@@ -84,27 +84,27 @@
   </a>
 
   <a href="https://swagger.io" target="_blank" rel="noreferrer" title="Swagger">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="Swagger" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="Swagger" width="60" height="60"/>
   </a>
 
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer" title="Postman">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="60" height="60"/>
   </a>
 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60"/>
   </a>
 
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" title="AWS">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="60" height="60"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" height="60"/>
+</a>
 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="Figma">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="60" height="60"/>
   </a>
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60"/>
+    <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
   </a>
 
 </p>
