@@ -104,7 +104,7 @@
   </a>
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
-    <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
   </a>
 
 </p>
